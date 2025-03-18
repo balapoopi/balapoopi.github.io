@@ -1,12 +1,13 @@
 ---
 title: balapoopi's Landing Page
 ---
-
 Hello World.
 
-I have been trying to figure out how I could use Obsidian to create a blog on technical researches I have made on my free time regarding Malware Analysis related matters.
+I don't know what i should put in my landing page... im thinking maybe i will talk about the project goals that i want to do this year?? but the problem is idek what i will be doing next week... but i know what i have been wanting to do for awhile now, and hopefully get started on blogging as i get started on this journey.
 
-I followed the tutorial [here](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages) and it was a lot more time consuming than I thought because I wanted my page to be at `balapoopi.github.io` and not `balapoopi.github.io/balapoopi`.
 
-With my many years of Google search experience, I was finally able to find what I was looking for [here](https://gist.github.com/codeadamca/bc3dcb6fc768ee1714918aa15cf13fad). 
+---
+
+# Goals for 2025
+- [ ] Homelab 🛫 2025-03-18 
 
