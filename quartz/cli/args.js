@@ -1,8 +1,9 @@
 export const CommonArgv = {
+  // jeremy: made the default path at /content/_blog to ensure no sensitive data is shared
   directory: {
     string: true,
     alias: ["d"],
-    default: "content",
+    default: "content/_blog",
     describe: "directory to look for content files",
   },
   verbose: {
